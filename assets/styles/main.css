@@ -1,0 +1,69 @@
+body{
+  font-family: 'Arial';
+  text-align: center;
+}
+
+h1{
+  color: #954535;
+  font-family: 'cursive'cursive;
+}
+
+ul li{
+  list-style: none;
+
+}
+
+.butter{
+  color: #fa9d73;
+}
+
+.brown-sugar{
+  color: #490c2f;
+}
+
+.granulated-sugar{
+  color: #f3c450;
+}
+
+.pudding-powder{
+  color: #8a6785;
+}
+
+.milk{
+  color: #da7ac0;
+}
+
+.vanilla{
+  color: #4e62eb;
+}
+
+.eggs{
+  color: #9dccd4;
+}
+
+.flour{
+  color: #abb290;
+}
+
+.baking-soda{
+  color: #7e50ca;
+}
+
+.salt{
+  color: #7ce1cd;
+}
+
+.chips{
+  color: #a55307;
+}
+
+ol{
+  text-align: left;
+}
+
+ol li::first-letter {
+  font-size: 20px;
+  color: red;
+  text-decoration: underline;
+
+}
